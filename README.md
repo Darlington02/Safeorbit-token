@@ -1,5 +1,6 @@
 # Safeorbit-token
-This is a hyper-deflationary token created on Binance testnet
+This is a hyper-deflationary token deployed on Binance testnet
+ - https://testnet.bscscan.com/token/0x6C4aAd19606DcF07eAef07105Ac7C7cd33448679
 
 # How to Deploy
 You do not need an in-depth knowledge in blockchain development to deploy this. 
